@@ -8,6 +8,7 @@ function printName()  {
     if (idvalue == "admin"){
         if (pwvalue == hashData){
             var win = window.open("file:hint.html");
+            alert("correct");
         }
     }
   }
