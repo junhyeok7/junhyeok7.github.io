@@ -12,5 +12,3 @@ function printName()  {
         }
     }
   }
-
-//16777216
