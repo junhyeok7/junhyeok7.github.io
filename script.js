@@ -1,4 +1,4 @@
-alert("hello there");
+alert(window.location.pathname;);
 var decrypt = CryptoJS.enc.Base64.parse("MTY3NzcyMTY");
 var hashData = decrypt.toString(CryptoJS.enc.Utf8);
 
