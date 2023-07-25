@@ -7,7 +7,7 @@ function printName()  {
     const pwvalue = document.getElementById('pw').value;
     if (idvalue == "admin"){
         if (pwvalue == hashData){
-            var win = window.open("file:///C:/Users/pc/Desktop/index.html");
+            var win = window.open("file:hint.html");
         }
     }
   }
